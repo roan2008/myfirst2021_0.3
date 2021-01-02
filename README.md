@@ -12,10 +12,10 @@ pip install myfirst2021
 เปิด IDLE ขึ้นมาแล้วพิมพ์...
 
 ```python
-from myfirst2021 import Student,SpecialStudent
+from myfirst2021 import Student,Specialstudent
 
 print('========2021,1 Jan========')
-student0 =SpecialStudent('Mark','Bill Gate')
+student0 =Specialstudent('Mark','Bill Gate')
 student0.AskEXP()
 student0.ShowEXP()
 
